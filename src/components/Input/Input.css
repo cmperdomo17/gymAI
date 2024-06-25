@@ -1,0 +1,6 @@
+.input-group input:focus ~ label,
+.input-group input:valid ~ label {
+    top: -20px;
+    left: 0;
+    font-size: 12.5px;
+}
