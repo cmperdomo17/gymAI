@@ -1,8 +1,8 @@
+
 function Home() {
     return (
-        <div>
-            <h1>Home</h1>
-            <p>Welcome to the home page!</p>
+        <div className="flex flex-col font-bold text-3xl items-center justify-center h-[100dvh]">
+            <p>¡ Welcome to GymAi !</p>
         </div>
     );
 }
